@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+**/data/
+.ipynb_checkpoints/tai_phake_video_sanity_check-checkpoint.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
